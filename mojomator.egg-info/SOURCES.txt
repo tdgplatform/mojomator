@@ -1,0 +1,10 @@
+setup.py
+cli/__init__.py
+cli/mojomator.py
+lib/__init__.py
+mojomator.egg-info/PKG-INFO
+mojomator.egg-info/SOURCES.txt
+mojomator.egg-info/dependency_links.txt
+mojomator.egg-info/entry_points.txt
+mojomator.egg-info/requires.txt
+mojomator.egg-info/top_level.txt
